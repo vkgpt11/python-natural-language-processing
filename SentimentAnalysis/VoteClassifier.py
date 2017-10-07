@@ -14,7 +14,6 @@ class VoteClassifier(ClassifierI):
         for c in self._classifiers:
             v = c.classify(features)
             votes.append(v)
-            print(v)
         return mode(votes)
 
     def confidence(self,features):

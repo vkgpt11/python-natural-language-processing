@@ -10,9 +10,9 @@ Repository contains list of topics required to gain the knowledge in NLP
 
 4. [Classification of Sentences using Machine Learning](https://github.com/vkgpt11/python-natural-language-processing/blob/master/nlp_topics/4.%20Classification%20of%20Sentences%20using%20Machine%20Learning.ipynb)
 
-5. [Chunking with NLTK] (https://github.com/vkgpt11/python-natural-language-processing/blob/master/nlp_topics/5.%20Chunking%20with%20NLTK.ipynb)
+5. [Chunking with NLTK](https://github.com/vkgpt11/python-natural-language-processing/blob/master/nlp_topics/5.%20Chunking%20with%20NLTK.ipynb)
 
-6. [Chinking with NLTK] (https://github.com/vkgpt11/python-natural-language-processing/blob/master/nlp_topics/6.%20Chinking%20with%20NLTK.ipynb)
+6. [Chinking with NLTK](https://github.com/vkgpt11/python-natural-language-processing/blob/master/nlp_topics/6.%20Chinking%20with%20NLTK.ipynb)
 
 7. [Named Entity Recognition with NLTK](https://github.com/vkgpt11/python-natural-language-processing/blob/master/nlp_topics/7.%20Named%20Entity%20Recognition%20with%20NLTK.ipynb)
 
@@ -24,9 +24,9 @@ Repository contains list of topics required to gain the knowledge in NLP
 
 11. [Converting words to Features with NLTK](https://github.com/vkgpt11/python-natural-language-processing/blob/master/nlp_topics/11.%20Converting%20words%20to%20Features%20with%20NLTK.ipynb)
 
-12. [Naive Bayes Classifier with NLTK] (https://github.com/vkgpt11/python-natural-language-processing/blob/master/nlp_topics/12.%20Naive%20Bayes%20Classifier%20with%20NLTK.ipynb)
+12. [Naive Bayes Classifier with NLTK](https://github.com/vkgpt11/python-natural-language-processing/blob/master/nlp_topics/12.%20Naive%20Bayes%20Classifier%20with%20NLTK.ipynb)
 
-13. [Scikit-Learn Sklearn with NLTK] (https://github.com/vkgpt11/python-natural-language-processing/blob/master/nlp_topics/13.%20Scikit-Learn%20Sklearn%20with%20NLTK.ipynb)
+13. [Scikit-Learn Sklearn with NLTK](https://github.com/vkgpt11/python-natural-language-processing/blob/master/nlp_topics/13.%20Scikit-Learn%20Sklearn%20with%20NLTK.ipynb)
 
 14. [Combining Algorithms with NLTK](https://github.com/vkgpt11/python-natural-language-processing/blob/master/nlp_topics/14.%20Combining%20Algorithms%20with%20NLTK.ipynb)
 
